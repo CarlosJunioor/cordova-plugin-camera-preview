@@ -1,4 +1,4 @@
-var permissionsToRemove = [ "RECORD_AUDIO" ];
+var permissionsToRemove = [ "RECORD_AUDIO", "MODIFY_AUDIO_SETTINGS" ];
 
 
 var fs = require('fs');
